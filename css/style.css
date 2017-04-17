@@ -1,0 +1,42 @@
+
+.center {
+    text-align: center;
+}
+
+.text-capital {
+    text-transform: uppercase;
+}
+
+#header .logo {
+    margin-top: 20px;
+}
+
+#header .logo img {
+    width: 173px;
+    margin: 0 auto;
+    top: 0;
+}
+
+#main .logo {
+    margin-top: 80px;
+    text-align: center;
+}
+
+#main .logo img {
+    margin: 0 auto;
+    width: 44px;
+}
+
+#main {
+    margin-top: 50px;
+}
+
+#main .center-col {
+    margin-top: 200px;
+    text-align: center;
+}
+
+#main h1 {
+    
+}
+
